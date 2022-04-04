@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "371e740ef6cc810c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a423f167a31e866e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web Development/001-CSS_TIL.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a39a4b03241da70a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7189513ab482ba99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ecd2dafe96f4920",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f253dd113689246d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63d200a4b2eb20e3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208
+  },
+  "right": {
+    "id": "4477f39adf918835",
+    "type": "split",
+    "children": [
+      {
+        "id": "09a127afb4f3676e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09ef3e03ef5ac33e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web Development/001-CSS_TIL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86d4b99e449698e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221,
+    "collapsed": true
+  },
+  "active": "a423f167a31e866e",
+  "lastOpenFiles": [
+    "Web Development/001-CSS_TIL.md",
+    "Web Development/learning resources.md",
+    "To read.md",
+    "Opensource/resources.md",
+    "To watch.md",
+    "Web Development/attachments/aaaa.pdf",
+    "Web Development/attachments/Resize Image To WhatsApp Profile Size Without Cropping.jpeg",
+    "Web Development/2022-04-04.md",
+    "001HTML.md",
+    "2022-04-03.md"
+  ]
+}
